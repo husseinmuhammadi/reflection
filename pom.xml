@@ -11,6 +11,7 @@
 
     <modules>
         <module>declared-fields</module>
+        <module>constructors</module>
     </modules>
 
     <properties>
